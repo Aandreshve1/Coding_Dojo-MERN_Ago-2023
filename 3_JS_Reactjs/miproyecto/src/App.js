@@ -15,8 +15,7 @@ const App = () => {
     return (
       <div>
 
-        <MyList></MyList>
-
+        {/*<MyList></MyList>*/}
         {/*<PokemonApi></PokemonApi>*/}
         {/*<CallApiAxios></CallApiAxios>*/}
         {/*<CallApi></CallApi>*/}
